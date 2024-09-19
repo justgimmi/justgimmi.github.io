@@ -15,7 +15,7 @@ My academic journey has been driven by a deep love for understanding complex pro
 and I balance that with my enthusiasm for calisthenics and scientific divulgation.
 In fact, I had the possibility to work for [DataJournalice](https://www.instagram.com/datajournalice?igsh=MTJwdHBiY3FpbjVvYg==) where I share interesting insights and engage with the community about the beauty of statistical modelling.
 
-![Rick and Morty image](/images/rick.jfif){: .align-right width="360px"}
+![Rick and Morty image](/images/rick.jfif){: .align-right width="320px"}
 
 
 ## Research Interests
@@ -26,4 +26,4 @@ I'm fascinated by the way these fields allow us to model uncertainty and extract
 from complex data structures. Just to have an idea,
 you can explore my biggest works up until now through my [Bachelor's thesis](/files/Tesi_Triennale.pdf), [Italian Master's thesis](/files/Tesi_Magistrale.pdf) and [French Master's thesis](/files/Final_Project.pdf).
 
-![CC](/images/Cowboy.png){: .align-right width="360px"}
+![CC](/images/Cowboy.png){: .align-center width="360px"}
