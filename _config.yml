@@ -12,7 +12,7 @@ title                    : "Gian Mario's Window"
 title_separator          : "-"
 name                     : &name "Gian Mario Sangiovanni"
 description              : &description "personal description"
-url                      : https://justgimmi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://justgimmi.github.io # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "justgimmi/justgimmi.github.io"
 
