@@ -9,4 +9,4 @@ redirect_from:
 
 
 HELLO
-![Rick and Morty image](/images/rick.jpeg){: .align-right width="390px"}
+![Rick and Morty image](/images/rick.jfif){: .align-right width="390px"}
