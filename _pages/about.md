@@ -13,6 +13,17 @@ redirect_from:
 I’m a passionate PhD student in statistics, always striving to answer real-world questions through data.
 My academic journey has been driven by a deep love for understanding complex problems,
 and I balance that with my enthusiasm for calisthenics and scientific divulgation.
-In fact, I had the possibility to work for [Instagram page dedicated to statistics](https://www.instagram.com/datajournalice?igsh=MTJwdHBiY3FpbjVvYg==) where I share interesting insights and engage with the community about the beauty of statistical modelling.
+In fact, I had the possibility to work for [DataJournalice](https://www.instagram.com/datajournalice?igsh=MTJwdHBiY3FpbjVvYg==) where I share interesting insights and engage with the community about the beauty of statistical modelling.
 
-![Rick and Morty image](/images/rick.jfif){: .align-right width="390px"}
+![Rick and Morty image](/images/rick.jfif){: .align-right width="360px"}
+
+
+## Research Interests
+
+My research focuses on Bayesian statistics and computational statistics,
+with a particular focus in stochastic processes and geospatial statistics.
+I'm fascinated by the way these fields allow us to model uncertainty and extract meaningful information
+from complex data structures. Just to have an idea,
+you can explore my biggest works up until now through my [Bachelor's thesis](/files/Tesi_Triennale.pdf), [Italian Master's thesis](/files/Tesi_Magistrale.pdf) and [French Master's thesis](/files/Final_Project.pdf).
+
+![CC](/images/Cowboy.png){: .align-right width="360px"}
