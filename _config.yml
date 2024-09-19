@@ -80,7 +80,7 @@ publication_category:
     title: 'Conference Papers'
 
 
-conferences_type:
+conferences_category:
   Partecipation:
     title: 'partecipation'
   Speaker:
@@ -225,7 +225,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  conferences:
     output: true
     permalink: /:collection/:path/
 

@@ -1,8 +1,8 @@
 ---
 title: "Violence Against Women (VAW) workshop 2024 "
 collection: conferences
-type: "Partecipation"
-permalink: /talks/2012-03-01-talk-1
+category: "Partecipation"
+permalink: /talks/VAW
 venue: "Sapienza University, Department of Statistical Science"
 date: 2024-09-13
 location: "Rome, Italy"
