@@ -10,9 +10,8 @@ redirect_from:
 
 # About Me
 
-![Rick and Morty image](/images/rick.jfif){: .align-right width="320px"}
 <div style="float: right; width: 300px;">
-    <iframe width="300" height="169" src="https://www.youtube.com/embed/G3HpuCC4-0o?start=17&end=29" frameborder="0" allowfullscreen></iframe>
+    <iframe width="300" height="169" src="https://www.youtube.com/embed/G3HpuCC4-0o?start=17&end=30" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
