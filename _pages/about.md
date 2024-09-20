@@ -11,6 +11,7 @@ redirect_from:
 # About Me
 
 ![Rick and Morty image](/images/rick.jfif){: .align-right width="320px"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3HpuCC4-0o" frameborder="0" allowfullscreen></iframe>
 
 
 I am a passionate PhD student in statistics, driven by the desire to apply data to solve real-world problems.
