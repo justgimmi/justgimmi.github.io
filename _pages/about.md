@@ -25,10 +25,17 @@ of this fascinating subject. Feel free to explore the page and reach out if you'
 
 ![CC](/images/Cowboy.png){: .align-center width="360px"}
 
-My research focuses on Bayesian statistics and computational statistics,
-with a particular focus in stochastic processes and geospatial statistics.
+My research focuses on Bayesian statistics (MCMC, Mixture and Dynamic modelling)
+,computational statistics, and their application to stochastic processes and geospatial data analysis.
 
 
-I'm fascinated by the way these fields allow us to model uncertainty and extract meaningful information
-from complex data structures. Just to have an idea,
-you can explore my biggest works up until now through my [Bachelor's thesis](/files/Tesi_Triennale.pdf), [Italian Master's thesis](/files/Tesi_Magistrale.pdf) and [French Master's thesis](/files/Final_Project.pdf).
+You can explore my previous works:
+
+- [Bachelor's thesis](/files/Tesi_Triennale.pdf), focused on the probabilistic explanation of the Metropolis-Hastings algorithm;
+- [Italian Master's thesis](/files/Tesi_Magistrale.pdf), presenting a new document clustering algorithm based on a bootstrap p-value approach;
+- [French Master's thesis](/files/Final_Project.pdf), an initial attempt to model football results using random effects and dynamic Bayesian models.
+
+# Latest News
+
+- **September 2024:** working on *globalSolve*, an R library to solve economic models by global methods with [Andrea Fratini](https://andrea-fratini.github.io/);
+- **December 2024:** i will present my master thesis at the [CFE-CM statistics conference](https://www.cmstatistics.org/CFECMStatistics2024/index.php).
