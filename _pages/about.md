@@ -13,14 +13,13 @@ redirect_from:
 ![Rick and Morty image](/images/rick.jfif){: .align-right width="320px"}
 
 
-I’m a passionate PhD student in statistics, always striving to answer real-world questions through data.
+I am a passionate PhD student in statistics, driven by the desire to apply data to solve real-world problems.
+My journey through academia has been fueled by a fascination for complex challenges.
+I also balance my academic pursuits with my love for calisthenics, which helps me maintain focus and discipline.
 
 
-My academic journey has been driven by a deep love for understanding complex problems,
-and I balance that with my enthusiasm for calisthenics and scientific divulgation.
-In fact, I had the possibility to work for [DataJournalice](https://www.instagram.com/datajournalice?igsh=MTJwdHBiY3FpbjVvYg==) where I share interesting insights and engage with the community about the beauty of statistical modelling.
-
-
+As part of my commitment to scientific divulgation, I collaborate with [DataJournalice](https://www.instagram.com/datajournalice?igsh=MTJwdHBiY3FpbjVvYg==) trying to demistify where I work to demystify the complexities 
+of this fascinating subject. Feel free to explore the page and reach out if you'd like to discuss any of the insights we share!
 
 # Research Interests
 
