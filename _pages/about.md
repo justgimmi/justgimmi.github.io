@@ -16,6 +16,7 @@ redirect_from:
 
 
 I am a passionate first-year PhD student in Statistics at the [department of statistical sciences](https://www.dss.uniroma1.it/it) at [Sapienza University](https://www.uniroma1.it/it/pagina-strutturale/home).
+Prior to that, I earned my Bachelor degree in Statistics from Sapienza University and then a double Master Degree: 
 one from Sapienza University and the other from [Dauphine University](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications/m2-mathematiques-apprentissage-sciences-humanites/programme).
 
 
