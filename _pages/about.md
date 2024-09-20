@@ -15,7 +15,10 @@ redirect_from:
 </div>
 
 
-I am a passionate PhD student in statistics, driven by the desire to apply data to solve real-world problems.
+I am a passionate first-year PhD student in Statistics at the [department of statistical sciences](https://www.dss.uniroma1.it/it) at [Sapienza University](https://www.uniroma1.it/it/pagina-strutturale/home).
+one from Sapienza University and the other from [Dauphine University](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications/m2-mathematiques-apprentissage-sciences-humanites/programme).
+
+
 My journey through academia has been fueled by a fascination for complex challenges.
 I also balance my academic pursuits with my love for calisthenics, which helps me maintain focus and discipline.
 
