@@ -27,6 +27,9 @@ I also balance my academic pursuits with my love for calisthenics, which helps m
 As part of my commitment to scientific divulgation, I collaborate with [DataJournalice](https://www.instagram.com/datajournalice?igsh=MTJwdHBiY3FpbjVvYg==) trying to demistify where I work to demystify the complexities 
 of this fascinating subject. Feel free to explore the page and reach out if you'd like to discuss any of the insights we share!
 
+
+I support [Flyless](https://sites.tufts.edu/flyingless/).
+
 # Research Interests
 
 ![CC](/images/Cowboy.png){: .align-center width="360px"}
