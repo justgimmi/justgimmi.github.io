@@ -1,7 +1,7 @@
 ---
 title: "CFE-CM Statistics Conference "
 collection: talks
-category: "Invited Speaker"
+category: "Speaker"
 permalink: /talks/Fer
 venue: "King's College London"
 date: 2024-09-13
